@@ -49,7 +49,6 @@ public class BancoDePalavras {
 		int contadorDeLinhas = 0;
 		
 		while ((linha = reader.readLine()) != null && contadorDeLinhas < 20) {
-			System.out.println(linha);
 			linhas.add(linha);
 			contadorDeLinhas++;
 		}

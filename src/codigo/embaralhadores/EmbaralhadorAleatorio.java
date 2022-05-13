@@ -1,4 +1,4 @@
-package codigo;
+package codigo.embaralhadores;
 
 import java.util.Arrays;
 import java.util.Collections;
